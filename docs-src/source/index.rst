@@ -12,11 +12,6 @@ Welcome to SignaltoNoiseRatio's documentation!
    :maxdepth: 1
    :caption: JupyterNotebook:
 
-.. toctree::
-   API
-   :maxdepth: 1
-   :caption: API Documentation Test:
-
 
 Indices and tables
 ==================
