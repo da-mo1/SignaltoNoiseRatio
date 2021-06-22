@@ -6,15 +6,11 @@
 Welcome to SignaltoNoiseRatio's documentation!
 ==============================================
 
-.. toctree::
-   JupyterNotebook/2017-10-19-HD23478
-   :maxdepth: 1
-   :caption: JupyterNotebook:
+Testing, 'E=mc^2'
 
 .. toctree::
-   API
-   :maxdepth: 1
-   :caption: API Documentation Test:
+   :maxdepth: 2
+   :caption: Contents:
 
 
 Indices and tables
