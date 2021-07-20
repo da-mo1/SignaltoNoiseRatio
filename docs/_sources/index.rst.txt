@@ -9,6 +9,7 @@ Welcome to SignaltoNoiseRatio's documentation!
 
 .. toctree::
    JupyterNotebook/2017-10-19-HD23478
+   JupyterNotebook/Updated-2017-10-19-HD23478
    :maxdepth: 1
    :caption: JupyterNotebook:
 
